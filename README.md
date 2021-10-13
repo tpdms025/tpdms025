@@ -1,9 +1,15 @@
-### Hi there 👋
+
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ✨SeEun Yang✨
+
+Welcome to my page!👋
+My name is Seeun. 
+
+## 🔧 Technologies & Tools
+<a><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=plastic&logo=Visual Studio&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=#00599C"/></a>
+
 
 <!--
-**tpdms025/tpdms025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,4 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?color=auto&text=SeEun Yang)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftpdms025&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
