@@ -6,12 +6,12 @@ My name is Seeun.
 
 
 ## 🔧 Technologies & Tools
-<a><img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=#239120"/></a>
+<a><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C Sharp&logoColor=#239120"/></a>
 <a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=#003B57"/></a>
 <a><img src="https://img.shields.io/badge/Json-339933?style=flat-square&logo=Json&logoColor=white"/></a>
 </br>
-<a><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=#000000"/></a>
+<a><img src="https://img.shields.io/badge/Unity-gray?style=flat-square&logo=Unity&logoColor=#000000"/></a>
 <a><img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=#0E1128"/></a>
 <a><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=#181717"/></a>
